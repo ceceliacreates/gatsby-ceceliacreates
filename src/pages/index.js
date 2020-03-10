@@ -12,7 +12,7 @@ const IndexPage = () => (
     <p>Thanks for stopping by. You may know me as:</p>
     <ul>
       <li>
-        a Support Engineer at <a href="http://www.cypress.io" target="blank" style={{textDecoration: 'none', color: '#60BBCD'}}>Cypress</a>
+        a Success Engineer at <a href="http://www.cypress.io" target="blank" style={{textDecoration: 'none', color: '#60BBCD'}}>Cypress</a>
       </li>
       <li>
         the blue-haired speaker from a tech meetup or webinar
