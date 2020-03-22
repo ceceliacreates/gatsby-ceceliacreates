@@ -42,12 +42,19 @@ const Header = ({ siteTitle, siteDescription }) => (
       }}>
     <h5 style={{ margin: 0 }}>
         <Link
+          to="/"
+          style={{
+            color: 'white',
+            textDecoration: 'none'
+          }}
+        >Home</Link> ||  
+         <Link
           to="/faq"
           style={{
             color: 'white',
             textDecoration: 'none'
           }}
-        >FAQ</Link>
+        > FAQ</Link>
       </h5>
     </div>
   </header>
