@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "question": "How did you handle the stress/workload of your boot camp?",
+        "answer": "Changing careers in my 30s was definitely a challenge, and came with a lot of imposter syndrome and anxiety. I worried that my previous experience wouldn’t translate or would be discounted, and that I’d be starting over from scratch. I also spent many nights worried I just wasn’t cut out for such a technical career. For me, having a support system was vital to getting through those feelings. I leaned on the teaching and support staff at my boot camp, my classmates, friends and family, and supporters in my local tech network and on Twitter. I sought out stories from other career-switchers or those without computer science backgrounds in tech to remind myself it was possible. I can’t stress enough how meaningful those stories were for me, which is why I wanted to share mine as well now that I’m on this side of it.",
+        "category": "boot-camp",
+        "link": "https://www.diversifytech.co/stories/cecelia-martinez"
+    },
+    {
+        "id": 2,
+        "question": "How did you find your first job after boot camp?",
+        "answer": "Nearly all my job opportunities came from networking -- both social networking and in-person. I wrote a blog post on how to make the most out of networking when on the job hunt.",
+        "category": "career",
+        "link": "https://bit.ly/ccDEVnetworking"
+    },
+    {
+        "id": 3,
+        "question": "How can I get involved with speaking?",
+        "answer": "Just ask! Many local and online meetups are in need of more speakers, and quite a few also provide mentorship to help if it's your first time. Check out the Women Who Code Front End track, we are looking for webinar speakers on a rolling basis, and it's where I gave my very first tech webinar.",
+        "category": "speaking",
+        "link": "https://bit.ly/WWCFEWebinar"
+    },
+    {
+        "id": 4,
+        "question": "Who drew that cool picture on your website?",
+        "answer": "The very awesome Phillip Romero, he's available for comissions on Instagram",
+        "category": "website",
+        "link": "https://www.instagram.com/phllprmr/"
+    }
+]
