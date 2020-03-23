@@ -16,10 +16,9 @@ describe('validates ui', function () {
     })
 
     it('clicks navigation links within site', function () {
-        cy.url().should('eq', "http://localhost:8000/");
         cy.contains("FAQ").click();
-        cy.url().should('eq', "http://localhost:8000/faq");
+        cy.url().should('contain', "faq");
         cy.contains("Home").click();
-        cy.url().should('eq', "http://localhost:8000/");
+        cy.url().should("eq", `${Cypress.config('baseUrl')}/`);
     })
 })
