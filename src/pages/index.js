@@ -15,7 +15,13 @@ const IndexPage = () => (
         a Success Engineer at <a href="http://www.cypress.io" target="blank" style={{textDecoration: 'none', color: '#60BBCD'}}>Cypress</a>
       </li>
       <li>
-        the blue-haired speaker from a tech meetup or webinar
+        the blue-haired <Link
+          to="/speaking"
+          style={{
+            color: `#60BBCD`,
+            textDecoration: `none`,
+          }}
+        >speaker from a tech meetup or webinar</Link>
       </li>
       <li>
         a member of the <a href="http://www.outintech.com" target="blank" style={{textDecoration: 'none', color: '#60BBCD'}}>Out In Tech</a> Atlanta leadership team
@@ -31,7 +37,7 @@ const IndexPage = () => (
       </li>
     </ul>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem`, marginLeft: 'auto', marginRight: 'auto' }}>
-      <Image/>
+      <Image />
     </div>
     <div style={{textAlign: 'center'}}>
     <p ><span role="img" aria-label="finger-pointing-up">☝️</span> (It me)</p>
