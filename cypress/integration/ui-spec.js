@@ -1,3 +1,4 @@
+ 
 /// <reference types="Cypress" />
 
 describe('validates ui', function () {
@@ -16,8 +17,11 @@ describe('validates ui', function () {
     })
 
     it('clicks navigation links within site', function () {
+        cy.url().should('eq', `${Cypress.config('baseUrl')}/`)
         cy.contains("FAQ").click();
         cy.url().should('contain', "faq");
+        cy.contains("Speaking").click();
+        cy.url().should("contain", "speaking");
         cy.contains("Home").click();
         cy.url().should("eq", `${Cypress.config('baseUrl')}/`);
     })

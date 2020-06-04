@@ -55,6 +55,14 @@ const Header = ({ siteTitle, siteDescription }) => (
             textDecoration: 'none'
           }}
         > FAQ</Link>
+        ||  
+         <Link
+          to="/speaking"
+          style={{
+            color: 'white',
+            textDecoration: 'none'
+          }}
+        > Speaking</Link>
       </h5>
     </div>
   </header>
