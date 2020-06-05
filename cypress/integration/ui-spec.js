@@ -16,12 +16,19 @@ describe('validates ui', function () {
         cy.contains("©");
     })
 
-    it('clicks navigation links within site', function () {
-        cy.url().should('eq', `${Cypress.config('baseUrl')}/`)
+    it('clicks FAQ link', function () {
+
         cy.contains("FAQ").click();
         cy.url().should('contain', "faq");
+    })
+
+    it('clicks Speaking link', function () {
         cy.contains("Speaking").click();
         cy.url().should("contain", "speaking");
+    })
+
+    it('clicks Home link', function () {
+        
         cy.contains("Home").click();
         cy.url().should("eq", `${Cypress.config('baseUrl')}/`);
     })
