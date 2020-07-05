@@ -1,7 +1,7 @@
 import React from "react"
 import { Link } from "gatsby"
 import Layout from "../components/layout"
-import AvatarImage from "../components/avatarImage"
+import AvatarImage from "../components/AvatarImage"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
