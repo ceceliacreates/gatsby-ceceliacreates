@@ -25,20 +25,21 @@ const Layout = ({ children }) => {
     }
   `)
 
-  const {title, description} = data.site.siteMetadata;
+  const { title, description } = data.site.siteMetadata
 
   return (
     <>
       <Header siteTitle={title} siteDescription={description} />
       <div
+        id="content-container"
         style={{
           margin: `0 auto`,
           maxWidth: 960,
-          padding: `0 1.0875rem 1.45rem`,
+          padding: `2em`,
         }}
       >
         <main>{children}</main>
-        <footer style={{textAlign: 'center'}}>
+        <footer style={{ textAlign: "center" }}>
           © {new Date().getFullYear()} ceceliacreates.com
         </footer>
       </div>

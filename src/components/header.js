@@ -49,7 +49,7 @@ const Header = ({ siteTitle, siteDescription }) => (
         </span>{" "}
         Speaking
       </Link>
-      <Link
+      {/* <Link
         activeStyle={{
           margin: "0.25em",
           fontSize: "1.5em",
@@ -61,7 +61,7 @@ const Header = ({ siteTitle, siteDescription }) => (
           📚
         </span>{" "}
         Resources
-      </Link>{" "}
+      </Link>{" "} */}
     </h5>
   </header>
 )
