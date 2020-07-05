@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/layout"
-import Image from "../components/image"
+import AvatarImage from "../components/AvatarImage"
 import SEO from "../components/seo"
 
 const IndexPage = () => (
@@ -37,7 +37,7 @@ const IndexPage = () => (
       </li>
     </ul>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem`, marginLeft: 'auto', marginRight: 'auto' }}>
-      <Image />
+      <AvatarImage />
     </div>
     <div style={{textAlign: 'center'}}>
     <p ><span role="img" aria-label="finger-pointing-up">☝️</span> (It me)</p>
