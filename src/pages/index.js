@@ -58,7 +58,24 @@ const IndexPage = () => (
           Women Who Code Front End
         </a>
       </li>
-      <li>a pretty cool podcast guest</li>
+      <li>
+        a{" "}
+        <a
+          href="https://www.tech4humans.io/Tech4HumansEpisode2"
+          target="blank"
+          style={{ textDecoration: "none", color: "#60BBCD" }}
+        >
+          {" "}
+          pretty cool
+        </a>{" "}
+        <a
+          href="https://www.codeprep.io/podcast/055/"
+          target="blank"
+          style={{ textDecoration: "none", color: "#60BBCD" }}
+        >
+          podcast guest
+        </a>
+      </li>
       <li>
         ceceliacreates on{" "}
         <a
