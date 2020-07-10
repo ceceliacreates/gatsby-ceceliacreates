@@ -1,7 +1,5 @@
 header {
-  background-image: url("../images/gatsbysitebanner.jpg");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background: linear-gradient(to right, rgb(177, 200, 255), rgb(172, 255, 217));
   text-align: center;
   padding: 2em;
 }
