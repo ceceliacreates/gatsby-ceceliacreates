@@ -1,25 +1,25 @@
 [
-    {
-        "id": 1,
-        "title": "Coders Craft Dev Meetup: The Road to Junior Dev - What and How to Learn",
-        "description": "A discussion and QA with the Coders Craft Dev Meetup on what and how to learn on your journey into tech.",
-        "link": "https://www.youtube.com/watch?v=QyPuLae3Ww4",
-        "slides": "https://docs.google.com/presentation/d/1mP5moRnfvFPiIcBWV9mj01F175BtId1PlPhryspMxgE/edit?usp=sharing"
-    },
-    {
-        "id": 2,
-        "title": "Node.js and Github API to Increase Productivity",
-        "description": "More than 40 million developers use GitHub to store, share, and collaborate on open-source software. Learn how to leverage its robust API with lightweight Node scripts to increase productivity in your individual or team development process. Automate issues, release notes, and more!",
-        "link": "https://zoom.us/rec/share/x9RIf6PO6T9IYK_qtwLVZIUqOYfkT6a80yId-PNfmU2-WeEARuypanXZmE2NKWop",
-        "slides": "https://docs.google.com/presentation/d/1tX609xC3losnKLCF6Atq-fpXtqpYaGMHe_rmEcW34nI/edit?usp=sharing",
-        "image": "https://files.slack.com/files-pri/THX1U2533-FTPG0VASV/image_from_ios.jpg?pub_secret=a834fcf824"
-    },
-    {
-        "id": 3,
-        "title": "Navigating a New Codebase: Tips and Tricks to Ease the Transition",
-        "description": "A webinar for Women Who Code Front End about my transition from boot camp student to junior software developer.",
-        "link": "https://zoom.us/recording/play/syZwps99zvcckOoNZtLcvM_IVJ0ONgXZ58THD9ENdtWSuceXfL2p9i-t3xpSyBCs?continueMode=true",
-        "slides": "https://docs.google.com/presentation/d/1oHHz_gzvDqc1s6vcjbnMZxv_IBrqPaQqjOBC66ZNKNA/edit?usp=sharing",
-        "image": "https://raw.githubusercontent.com/ceceliacreates/ceceliacreates-portfolio/gh-pages/assets/webinarimage.png"
-    }
+  {
+    "id": 3,
+    "title": "Coders Craft Dev Meetup: The Road to Junior Dev - What and How to Learn",
+    "description": "A discussion and QA with the Coders Craft Dev Meetup on what and how to learn on your journey into tech.",
+    "link": "https://www.youtube.com/watch?v=QyPuLae3Ww4",
+    "slides": "https://docs.google.com/presentation/d/1mP5moRnfvFPiIcBWV9mj01F175BtId1PlPhryspMxgE/edit?usp=sharing"
+  },
+  {
+    "id": 2,
+    "title": "Node.js and Github API to Increase Productivity",
+    "description": "More than 40 million developers use GitHub to store, share, and collaborate on open-source software. Learn how to leverage its robust API with lightweight Node scripts to increase productivity in your individual or team development process. Automate issues, release notes, and more!",
+    "link": "https://zoom.us/rec/share/x9RIf6PO6T9IYK_qtwLVZIUqOYfkT6a80yId-PNfmU2-WeEARuypanXZmE2NKWop",
+    "slides": "https://docs.google.com/presentation/d/1tX609xC3losnKLCF6Atq-fpXtqpYaGMHe_rmEcW34nI/edit?usp=sharing",
+    "image": "https://files.slack.com/files-pri/THX1U2533-FTPG0VASV/image_from_ios.jpg?pub_secret=a834fcf824"
+  },
+  {
+    "id": 1,
+    "title": "Navigating a New Codebase: Tips and Tricks to Ease the Transition",
+    "description": "A webinar for Women Who Code Front End about my transition from boot camp student to junior software developer.",
+    "link": "https://zoom.us/recording/play/syZwps99zvcckOoNZtLcvM_IVJ0ONgXZ58THD9ENdtWSuceXfL2p9i-t3xpSyBCs?continueMode=true",
+    "slides": "https://docs.google.com/presentation/d/1oHHz_gzvDqc1s6vcjbnMZxv_IBrqPaQqjOBC66ZNKNA/edit?usp=sharing",
+    "image": "https://raw.githubusercontent.com/ceceliacreates/ceceliacreates-portfolio/gh-pages/assets/webinarimage.png"
+  }
 ]
