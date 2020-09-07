@@ -12,7 +12,7 @@ const FAQPage = () => (
     {faqs.map(faq => {
       return (
         <div key={faq.id}>
-          <h3>{faq.question}</h3>
+          <h5>{faq.question}</h5>
           <p>{faq.answer}</p>
           {faq.link ? (
             <p>
