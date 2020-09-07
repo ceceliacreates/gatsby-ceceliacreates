@@ -76,6 +76,7 @@ const IndexPage = () => (
           podcast guest
         </a>
       </li>
+      <li>a pretty cool podcast guest</li>
       <li>
         ceceliacreates on{" "}
         <a
