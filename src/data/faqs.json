@@ -1,27 +1,41 @@
 [
   {
-    "id": 4,
+    "id": 5,
+    "question": "What's your story?",
+    "answer": "It's a long one, so here are the highlights: I got my B.A. in Public Communications and became a journalist, moved to finance, got my MBA, and worked at companies like TD Ameritrade and Fidelity Investments, got bored of that, went to a coding bootcamp, did a LOT of networking, and now I'm on a mission to empower developer confidence by improving the software testing experience. I am passionate about supporting underrepresented people in tech and love teaching (I get that from my mom, but she works with second graders and has a MUCH harder job). Right now I spend a lot of time learning, working on projects, and trying to write and stream about tech when I can. For the long story, check me out on LinkedIn.",
+    "category": "career",
+    "link": "https://www.linkedin.com/in/ceceliamartinez/"
+  },
+  {
+    "id": 1,
     "question": "How did you handle the stress/workload of your boot camp?",
     "answer": "Changing careers in my 30s was definitely a challenge, and came with a lot of imposter syndrome and anxiety. I worried that my previous experience wouldn’t translate or would be discounted, and that I’d be starting over from scratch. I also spent many nights worried I just wasn’t cut out for such a technical career. For me, having a support system was vital to getting through those feelings. I leaned on the teaching and support staff at my boot camp, my classmates, friends and family, and supporters in my local tech network and on Twitter. I sought out stories from other career-switchers or those without computer science backgrounds in tech to remind myself it was possible. I can’t stress enough how meaningful those stories were for me, which is why I wanted to share mine as well now that I’m on this side of it.",
     "category": "boot-camp",
     "link": "https://www.diversifytech.co/stories/cecelia-martinez"
   },
   {
-    "id": 3,
+    "id": 2,
     "question": "How did you find your first job after boot camp?",
     "answer": "Nearly all my job opportunities came from networking -- both social networking and in-person. I wrote a blog post on how to make the most out of networking when on the job hunt.",
     "category": "career",
     "link": "https://bit.ly/ccDEVnetworking"
   },
   {
-    "id": 2,
+    "id": 3,
     "question": "How can I get involved with speaking?",
     "answer": "Just ask! Many local and online meetups are in need of more speakers, and quite a few also provide mentorship to help if it's your first time. Check out the Women Who Code Front End track, we are looking for webinar speakers on a rolling basis, and it's where I gave my very first tech webinar.",
     "category": "speaking",
     "link": "https://bit.ly/WWCFEWebinar"
   },
   {
-    "id": 1,
+    "id": 6,
+    "question": "Can you give me feedback on my project/resume/portfolio?",
+    "answer": "Unfortunately I don't have the capacity to offer individual reviews, and I hate over-promising and not being able to deliver 😞 I recommend checking out networks like Women Who Code if you are looking for career advice. There are a lot of amazing resources out there. You can also check out my talk on what I learned before getting my first job in tech.",
+    "category": "career",
+    "link": "https://www.youtube.com/watch?v=QyPuLae3Ww4"
+  },
+  {
+    "id": 4,
     "question": "Who drew that cool picture on your website?",
     "answer": "The very awesome @mirlu_exe, she's available for comissions on Twitter.",
     "category": "website",
