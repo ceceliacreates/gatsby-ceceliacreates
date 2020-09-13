@@ -1,5 +1,12 @@
 [
   {
+    "id": 6,
+    "title": "Exploring the Cypress Real World App - Cypress.io UK Community - July 15",
+    "description": "Join Cypress Success Engineer Cecelia Martinez in exploring the Cypress Real World App. This full-stack Express/React payment application has 100% code coverage with Cypress tests and demonstrates testing methods, patterns, and workflows in Cypress. Tune in for a dive into the codebase, as well as best practices around test design, authentication, and data seeding. Followed by a Q&A session.",
+    "link": "https://www.youtube.com/watch?v=jZly1Cpun-Q",
+    "slides": "https://cypress.slides.com/cecelia/deck-971881"
+  },
+  {
     "id": 5,
     "title": "ThisDot JS Marathon: End-to-end Testing with Cypress",
     "description": "Looking to add testing to your skill set or just feel more confident pushing to production? In this beginner-level talk, we will walk through the process of installing, configuring, and writing a critical-path test using Cypress. ",
@@ -24,14 +31,14 @@
     "id": 2,
     "title": "Node.js and Github API to Increase Productivity",
     "description": "More than 40 million developers use GitHub to store, share, and collaborate on open-source software. Learn how to leverage its robust API with lightweight Node scripts to increase productivity in your individual or team development process. Automate issues, release notes, and more!",
-    "link": "https://zoom.us/rec/share/x9RIf6PO6T9IYK_qtwLVZIUqOYfkT6a80yId-PNfmU2-WeEARuypanXZmE2NKWop",
+    "link": "https://www.youtube.com/watch?v=7NelKUNgelM",
     "slides": "https://docs.google.com/presentation/d/1tX609xC3losnKLCF6Atq-fpXtqpYaGMHe_rmEcW34nI/edit?usp=sharing"
   },
   {
     "id": 1,
     "title": "Navigating a New Codebase: Tips and Tricks to Ease the Transition",
     "description": "A webinar for Women Who Code Front End about my transition from boot camp student to junior software developer.",
-    "link": "https://zoom.us/recording/play/syZwps99zvcckOoNZtLcvM_IVJ0ONgXZ58THD9ENdtWSuceXfL2p9i-t3xpSyBCs?continueMode=true",
+    "link": "https://www.youtube.com/watch?v=4Z-9k9xcP2M",
     "slides": "https://docs.google.com/presentation/d/1oHHz_gzvDqc1s6vcjbnMZxv_IBrqPaQqjOBC66ZNKNA/edit?usp=sharing"
   }
 ]
